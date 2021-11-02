@@ -1,0 +1,10 @@
+Conversão de temperatura Celcius -> Kelvin
+
+//Entrada de dados
+TemperaturaC
+
+//Processamento
+TemperaturaK = TemperaturaC + 273
+
+//Saída
+Ler TemperaturaK
